@@ -1,0 +1,13 @@
+
+.child1{
+    background: gray;
+    width: 1260px;
+    height: 40px;
+    padding: 12px;
+}
+.child2{
+    background: yellow;
+    width: 1260px;
+    height: 40px;
+    padding: 12px;
+}
