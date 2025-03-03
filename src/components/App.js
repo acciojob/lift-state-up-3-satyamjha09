@@ -21,7 +21,7 @@ const App = () => {
         <ChildComponents2 onSelete={handleOptionChange} />
 
         <div>
-          <h1> Seleted Option: {selectedOption} </h1>
+          <p> Seleted Option: {selectedOption} </p>
         </div>
     </div>
   )

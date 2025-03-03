@@ -3,8 +3,6 @@ import './../styles/Child.css'
 
 const ChildComponents1 = ({ onSelete }) => {
 
-
-
   return (
     <div className="child1">
         ChildComponents1
